@@ -11,5 +11,7 @@ int main() {
     cin>>nilB;
 
     rerata = (nilB+nilM)/2;
-    
+
+    if ((rerata >= 60) || (nilM >= 70))
+        status = "lulus";
 }
