@@ -7,4 +7,5 @@ int main() {
 
     cout<<"Masukkan nilai Matematika=";
     cin>>nilM;
+    cout<<"Masukkan nilai Bahasa inggris";
 }
