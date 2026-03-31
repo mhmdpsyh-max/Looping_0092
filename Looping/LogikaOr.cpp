@@ -14,4 +14,5 @@ int main() {
 
     if ((rerata >= 60) || (nilM >= 70))
         status = "lulus";
+    else
 }
