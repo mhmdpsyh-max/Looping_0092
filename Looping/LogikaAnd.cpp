@@ -6,4 +6,5 @@ int main() {
     string status;
 
     cout<<"Masukkan nilai Matematika=";
+    cin>>nilM;
 }

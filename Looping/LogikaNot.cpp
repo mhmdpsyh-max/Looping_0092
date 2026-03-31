@@ -15,5 +15,6 @@ int main() {
     if (!(rerata < 60))
         status = "lulus";
 
-    cout<<
+    cout<<"Status kelulusan ="<<status<<",dengan nilai rata rata ="<<rerata<<endl;
+
 }
